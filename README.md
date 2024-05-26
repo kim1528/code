@@ -11,19 +11,6 @@ Java和python二套源码
 #### 手机端后台在线预览：[https://uns.dfg145.cfd/img/手机后台.gif](https://uns.dfg145.cfd/img/手机后台.gif)<br>
 #### PC端电脑后台在线预览： [https://uns.dfg145.cfd/img/pc后台.gif](https://uns.dfg145.cfd/img/pc后台.gif)<br>
 
-<br>
-
-1.  测试演示环境  <br>
-#### H5在线访问： [https://uap.dfg145.cfd](https://d1jgmyx5hugpku.cloudfront.net)<br>
-账户17777777777 密码123456 <br>
-<br>
-
-#### APP包下载地址： [https://uns.dfg145.cfd/app/html/index.html](https://uns.dfg145.cfd/app/html/index.html)<br>
-
-####  手机端后台APK下载地址： [https://uns.dfg145.cfd/admin/html/index.html](https://uns.dfg145.cfd/shoujiadmin/html/index.html)<br>
-账户admin 密码123456 <br>
-<br>
-
 ### 搭建教程
 [搭建教程](https://youtu.be/7BIIAtqUiUI)
 
@@ -32,7 +19,7 @@ Java和python二套源码
 爬虫：Java/python
 前端：uniapp 可编译 安卓 苹果
 数据库MYSQL
-支付接口：支付宝 微信 汇付
+支付接口：支付宝 微信 汇付 银联
 环境配置：有部署文档说明
 源码可二开
 
